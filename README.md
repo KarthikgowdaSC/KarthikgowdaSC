@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik SC
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on Data Analytics project
 - 📫 How to reach me by using sck7512@gmail.com 
